@@ -9,6 +9,10 @@ For an introduction to the core concepts behind GitHub Actions, I recommend
 reading [this article](https://www.padok.fr/en/blog/github-actions) to learn
 the basic vocabulary used in this tutorial.
 
+## Original repository
+
+- This is just a copy from the [original repository](https://github.com/padok-team/github-actions-tutorial) to learn how to use CI with Github Actions.
+
 ## Requirements
 
 To complete this tutorial, you will need the following:
