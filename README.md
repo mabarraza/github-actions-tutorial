@@ -11,7 +11,7 @@ the basic vocabulary used in this tutorial.
 
 ## Original repository
 
-- This is just a copy from the [original repository](https://github.com/padok-team/github-actions-tutorial) to learn how to use CI with Github Actions.
+- This is just a copy from the [original repo](https://github.com/padok-team/github-actions-tutorial) to learn how to use CI with Github Actions.
 
 ## Requirements
 
